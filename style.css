@@ -1,0 +1,106 @@
+.parent{
+        width: 1280px;
+        height: 700px ;
+    /* overflow: hidden; */
+background-image: url(ark-k.png/billboard.png);
+background-size: cover;
+object-fit: cover;
+}
+.imgg1{
+height: 99px;
+width: 99px;
+position: relative;
+right: 190px;
+}
+a{
+ margin-right: 35px;
+text-decoration: none;
+font-size: 20px;
+ color: rgb(56, 92, 92);
+ position: relative;
+ /* top: 0px; */
+ left: 630px;
+ bottom: 40px;
+}
+.imgg2{
+    object-fit: cover;
+    width: 1280px;
+    height: 600px;   
+}
+.child{
+    background-color: aliceblue;
+    overflow: hidden;
+    opacity: 0.8;
+ }    
+ .p1{
+    position: relative;
+    top: 25px;
+    left: 40px; 
+    font-size: 20px;   
+ }
+ .b1
+ {  position: relative;
+    left: 900px;
+    bottom: 27px;
+    border: 2px black ;
+    border-radius: 10px;
+    color: aliceblue;
+    background-color: aqua;
+    font-size: 15px;
+    padding: 15px 30px 15px 30px;
+    opacity: 1;
+} 
+.div2
+{  
+    background-color: aliceblue;
+    opacity: 0.8;
+    position: relative;
+    top: 500px;
+}
+.divv3
+{   
+    position: relative;
+    top: 10px;
+    height: 400px;
+    max-width: 100%;
+    background-color: black;
+    background-image: url(us_3.png);
+    background-size: cover;
+}
+
+/* .imgg3
+{   
+    width: 700px;
+    height: 400px;
+    position: ;
+    object-fit: cover;
+} */
+.divv4{
+    /* position: relative;
+    top: 5px; */
+    width: auto;
+    height: 300px;
+    background-image: url(ark-k.png/us_4.PNG);
+    background-size: cover;
+}
+.divv5
+{
+    /* width: 400px; */
+    height: 350px;
+   background-image: url(ark-k.png/us_5.PNG);
+   background-size: cover;
+}
+.divv6
+{   
+    margin-left: 200px;
+    /* width: 300px; */
+    height: 30px;
+    /* background-color: black; */
+    background-image: url(ark-k.png/logo1.png);
+    margin-right: 500px;
+    position: relative;
+    top: 20px;
+    /* right: 300px; */
+
+}
+
